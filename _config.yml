@@ -1,10 +1,10 @@
 url: https://needleworm.github.io/
-baseurl: /chatgpt
+baseurl: /gpt2
 
 # Site settings
 title: 챗GPT
 email: bhban@kakao.com
-description: 챗GPT - 마침내 찾아온 특이점
+description: 챗GPT - GPT 노마드의 탄생생
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
